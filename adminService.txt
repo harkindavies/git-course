@@ -1,2 +1,3 @@
 add and remove user
 change the role
+admin will determine any member that meet the requirement to become admin
